@@ -1,0 +1,13 @@
+.headline{
+  text-align: center;
+  border-bottom: solid green 2px;
+}
+.list{
+  border-right: solid green 2px;
+  width: 200px;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  
+}
