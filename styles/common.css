@@ -18,6 +18,14 @@ body {
 }
 
 .list{
+  box-sizing: border-box;
   border-right: solid green 2px;
   width: 200px;
+  padding: 15px;
+}
+h2{
+  padding: 10px;
+}
+.contents{
+  padding: 15px;
 }
